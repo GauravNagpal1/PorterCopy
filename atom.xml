@@ -1,0 +1,172 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://github.com/MChorfa/porter-helm3</id>
+    <title>Porter Helm3 Mixin</title>
+    <updated>2023-02-24T17:00:28Z</updated>
+    <link rel="self" href="http://mchorfa.github.io/porter-helm3/atom.xml"/>
+    <author>
+        <name>Mohamed chorfa</name>
+        <uri>http://github.com/MChorfa/porter-helm3</uri>
+    </author>
+    <category term="helm3"/>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v1.0.1/helm3</id>
+        <title>helm3 @ v1.0.1</title>
+        <updated>2023-02-24T17:00:28Z</updated>
+        <category term="helm3"/>
+        <content>v1.0.1</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.1/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.1/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.1/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0/helm3</id>
+        <title>helm3 @ v1.0.0</title>
+        <updated>2022-10-18T17:15:02Z</updated>
+        <category term="helm3"/>
+        <content>v1.0.0</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0-rc.2/helm3</id>
+        <title>helm3 @ v1.0.0-rc.2</title>
+        <updated>2022-09-21T18:27:58Z</updated>
+        <category term="helm3"/>
+        <content>v1.0.0-rc.2</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0-rc.2/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0-rc.2/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0-rc.2/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0-rc.1/helm3</id>
+        <title>helm3 @ v1.0.0-rc.1</title>
+        <updated>2022-09-13T20:59:55Z</updated>
+        <category term="helm3"/>
+        <content>v1.0.0-rc.1</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0-rc.1/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0-rc.1/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v1.0.0-rc.1/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.16/helm3</id>
+        <title>helm3 @ v0.1.16</title>
+        <updated>2022-05-20T22:30:35Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.16</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.16/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.16/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.16/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.15/helm3</id>
+        <title>helm3 @ v0.1.15</title>
+        <updated>2021-09-29T22:08:00Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.15</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.15/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.15/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.15/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.14/helm3</id>
+        <title>helm3 @ v0.1.14</title>
+        <updated>2021-09-23T01:27:49Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.14</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.14/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.14/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.14/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.13/helm3</id>
+        <title>helm3 @ v0.1.13</title>
+        <updated>2021-09-01T00:06:18Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.13</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.13/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.13/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.13/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.12/helm3</id>
+        <title>helm3 @ v0.1.12</title>
+        <updated>2020-10-25T03:27:07Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.12</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.12/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.12/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.12/helm3-linux-arm64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.12/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.11/helm3</id>
+        <title>helm3 @ v0.1.11</title>
+        <updated>2020-10-20T04:29:12Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.11</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.11/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.11/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.11/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.10/helm3</id>
+        <title>helm3 @ v0.1.10</title>
+        <updated>2020-10-17T22:40:15Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.10</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.10/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.10/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.10/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.9/helm3</id>
+        <title>helm3 @ v0.1.9</title>
+        <updated>2020-10-12T00:19:47Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.9</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.9/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.9/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.9/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.8/helm3</id>
+        <title>helm3 @ v0.1.8</title>
+        <updated>2020-09-29T21:51:07Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.8</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.8/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.8/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.8/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.7/helm3</id>
+        <title>helm3 @ v0.1.7</title>
+        <updated>2020-08-21T19:43:06Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.7</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.7/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.7/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.7/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.6/helm3</id>
+        <title>helm3 @ v0.1.6</title>
+        <updated>2020-07-21T19:43:06Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.6</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.6/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.6/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.6/helm3-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>http://github.com/MChorfa/porter-helm3/releases/download/v0.1.5/helm3</id>
+        <title>helm3 @ v0.1.5</title>
+        <updated>2020-06-21T19:43:06Z</updated>
+        <category term="helm3"/>
+        <content>v0.1.5</content>
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.5/helm3-darwin-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.5/helm3-linux-amd64" />
+        <link rel="download" href="http://github.com/MChorfa/porter-helm3/releases/download/v0.1.5/helm3-windows-amd64.exe" />
+    </entry>
+</feed>
